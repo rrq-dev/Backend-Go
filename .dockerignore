@@ -1,0 +1,12 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+main
+
+# Go vendor
+vendor/
+
+# Go workspace file
+go.work
